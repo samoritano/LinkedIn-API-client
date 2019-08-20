@@ -1,6 +1,6 @@
 <?php
 
-namespace Happyr\LinkedIn\Storage;
+namespace Bokokode\LinkedIn\Storage;
 
 use Illuminate\Support\Facades\Session;
 

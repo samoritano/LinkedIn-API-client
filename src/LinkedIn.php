@@ -1,14 +1,14 @@
 <?php
 
-namespace Happyr\LinkedIn;
+namespace Bokokode\LinkedIn;
 
-use Happyr\LinkedIn\Exception\LoginError;
-use Happyr\LinkedIn\Http\GlobalVariableGetter;
-use Happyr\LinkedIn\Http\RequestManager;
-use Happyr\LinkedIn\Http\ResponseConverter;
-use Happyr\LinkedIn\Http\UrlGenerator;
-use Happyr\LinkedIn\Http\UrlGeneratorInterface;
-use Happyr\LinkedIn\Storage\DataStorageInterface;
+use Bokokode\LinkedIn\Exception\LoginError;
+use Bokokode\LinkedIn\Http\GlobalVariableGetter;
+use Bokokode\LinkedIn\Http\RequestManager;
+use Bokokode\LinkedIn\Http\ResponseConverter;
+use Bokokode\LinkedIn\Http\UrlGenerator;
+use Bokokode\LinkedIn\Http\UrlGeneratorInterface;
+use Bokokode\LinkedIn\Storage\DataStorageInterface;
 use Http\Client\HttpClient;
 use Http\Message\MessageFactory;
 use Psr\Http\Message\ResponseInterface;

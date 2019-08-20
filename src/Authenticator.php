@@ -1,16 +1,16 @@
 <?php
 
-namespace Happyr\LinkedIn;
+namespace Bokokode\LinkedIn;
 
-use Happyr\LinkedIn\Exception\LinkedInTransferException;
-use Happyr\LinkedIn\Exception\LinkedInException;
-use Happyr\LinkedIn\Http\GlobalVariableGetter;
-use Happyr\LinkedIn\Http\LinkedInUrlGeneratorInterface;
-use Happyr\LinkedIn\Http\RequestManager;
-use Happyr\LinkedIn\Http\RequestManagerInterface;
-use Happyr\LinkedIn\Http\ResponseConverter;
-use Happyr\LinkedIn\Storage\DataStorageInterface;
-use Happyr\LinkedIn\Storage\SessionStorage;
+use Bokokode\LinkedIn\Exception\LinkedInTransferException;
+use Bokokode\LinkedIn\Exception\LinkedInException;
+use Bokokode\LinkedIn\Http\GlobalVariableGetter;
+use Bokokode\LinkedIn\Http\LinkedInUrlGeneratorInterface;
+use Bokokode\LinkedIn\Http\RequestManager;
+use Bokokode\LinkedIn\Http\RequestManagerInterface;
+use Bokokode\LinkedIn\Http\ResponseConverter;
+use Bokokode\LinkedIn\Storage\DataStorageInterface;
+use Bokokode\LinkedIn\Storage\SessionStorage;
 
 /**
  * @author Tobias Nyholm <tobias.nyholm@gmail.com>

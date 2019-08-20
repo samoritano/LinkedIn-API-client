@@ -1,6 +1,6 @@
 <?php
 
-namespace Happyr\LinkedIn;
+namespace Bokokode\LinkedIn;
 
 /**
  * @author Tobias Nyholm

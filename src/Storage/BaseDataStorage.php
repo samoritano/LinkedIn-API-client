@@ -1,8 +1,8 @@
 <?php
 
-namespace Happyr\LinkedIn\Storage;
+namespace Bokokode\LinkedIn\Storage;
 
-use Happyr\LinkedIn\Exception\InvalidArgumentException;
+use Bokokode\LinkedIn\Exception\InvalidArgumentException;
 
 /**
  * @author Tobias Nyholm

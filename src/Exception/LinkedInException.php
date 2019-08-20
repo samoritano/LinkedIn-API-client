@@ -1,6 +1,6 @@
 <?php
 
-namespace Happyr\LinkedIn\Exception;
+namespace Bokokode\LinkedIn\Exception;
 
 /**
  * This is the base exception of this library.

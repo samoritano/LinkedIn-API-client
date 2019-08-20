@@ -1,10 +1,10 @@
 <?php
 
-namespace Happyr\LinkedIn;
+namespace Bokokode\LinkedIn;
 
-use Happyr\LinkedIn\Exception\LinkedInException;
-use Happyr\LinkedIn\Http\LinkedInUrlGeneratorInterface;
-use Happyr\LinkedIn\Storage\DataStorageInterface;
+use Bokokode\LinkedIn\Exception\LinkedInException;
+use Bokokode\LinkedIn\Http\LinkedInUrlGeneratorInterface;
+use Bokokode\LinkedIn\Storage\DataStorageInterface;
 
 /**
  * This interface is responsible for the authentication process with LinkedIn.

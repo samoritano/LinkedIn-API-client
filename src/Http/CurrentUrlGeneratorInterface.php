@@ -1,6 +1,6 @@
 <?php
 
-namespace Happyr\LinkedIn\Http;
+namespace Bokokode\LinkedIn\Http;
 
 /**
  * An interface to get the current URL.
